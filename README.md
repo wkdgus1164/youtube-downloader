@@ -22,7 +22,7 @@
 
 1. 저장소를 클론하거나 다운로드합니다.
 ```
-git clone https://github.com/yourusername/youtube-downloader.git
+git clone https://github.com/wkdgus1164/youtube-downloader.git
 cd youtube-downloader
 ```
 
